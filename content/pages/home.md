@@ -1,7 +1,7 @@
 ---
 template: HomePage
 slug: ''
-title: 'Shalom, We are Slalum! שלום, אנחנו סללום'
+title: 'Shalom, We are Slalum!'
 featuredImage: 'https://ucarecdn.com/9bcdf9a7-28eb-4524-9d9b-f6e838f34970/'
 subtitle: Welcome!
 meta:
