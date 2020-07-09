@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: 'Shalom, We are Slalum!'
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
+featuredImage: 'https://ucarecdn.com/9bcdf9a7-28eb-4524-9d9b-f6e838f34970/'
 subtitle: Welcome!
 meta:
   description: This is a meta description.
